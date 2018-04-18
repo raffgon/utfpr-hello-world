@@ -10,8 +10,7 @@ Quem ler é viado
 
 http:\\www.google.com
 
-...
-
+```c
 #include <stdio.h>
 int main (){
 	printf("Olá GitHub");
